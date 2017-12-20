@@ -25,4 +25,8 @@ Tools -> Add-ons -> Browse & Install -> Input Code or Browse
 
 ![Add](/Pictures/Add.png?raw=true)
 
+```
+快捷鍵 Ctrl + T
+```
+
 ![Add_TTS](/Pictures/Add_TTS.png?raw=true)

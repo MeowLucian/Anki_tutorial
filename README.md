@@ -9,9 +9,13 @@ Tools -> Add-ons -> Browse & Install -> Input Code or Browse
 * AwesomeTTS：301952613
 * Replay buttons on card：498789867
 
-## 插入聲音
+## 新增卡片：
 
-### 自行加入
+![Add](/Pictures/Add.png?raw=true)
+
+## 插入聲音：
+
+* 自行加入
 
 安裝擴充功能
 
@@ -21,9 +25,13 @@ Tools -> Add-ons -> Browse & Install -> Input Code or Browse
 
 點選製作者為 ```Chien Chun``` 的擴充功能
 
-### AwesomeTTS
+複製聲音檔
 
-![Add](/Pictures/Add.png?raw=true)
+```
+快捷鍵 滑鼠右鍵 + E
+```
+
+* AwesomeTTS
 
 ```
 快捷鍵 Ctrl + T
